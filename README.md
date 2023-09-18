@@ -41,7 +41,7 @@ python snake_game.py
 Feel free to contribute to this project by opening issues or submitting pull requests. We welcome your suggestions and improvements!
 
 ## Credits
-This Snake Game project was created by [Your Name] as a fun way to learn Python and Pygame. Special thanks to the Python and Pygame communities for their valuable resources and support.
+This Snake Game project was created by Satyam Pandey as a fun way to learn Python and Pygame. Special thanks to the Python and Pygame communities for their valuable resources and support.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
